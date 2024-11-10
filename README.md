@@ -2,7 +2,7 @@
 # 9animetv Crawler - Proof of Concept
 
 
-This project demonstrates a basic proof of concept for a web crawler targeting 9animetv. **Note:** This is strictly for educational purposes; a full-fledged crawler will not be published or developed here, and I disclaim responsibility for any consequences arising from this project.
+This project demonstrates a basic proof of concept for a web crawler targeting 9animetv and more specificly the rapid-cloud/vidcloud hosting server. **Note:** This is strictly for educational purposes; a full-fledged crawler will not be published or developed here, and I disclaim responsibility for any consequences arising from this project.
 
 ## 📝 Background
 
