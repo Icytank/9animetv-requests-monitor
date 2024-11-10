@@ -39,7 +39,7 @@ This project demonstrates a basic proof of concept for a web crawler targeting 9
 
 3. **Play M3U8 Stream**:
    - Open `play.html` in a modern browser.
-   - Enter the M3U8 URL (e.g., from `index-f2-v1-a1.m3u8`) in the input field and click "Load Video" to initiate playback.
+   - Enter the M3U8 INDEX URL in the input field and click "Load Video" to initiate playback.
 
 ## ⚠️ Disclaimer
 
