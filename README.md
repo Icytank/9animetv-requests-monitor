@@ -2,7 +2,6 @@
 # 9animetv Crawler - Proof of Concept
 
 
-## ⚠️ Disclaimer
 This project demonstrates a basic proof of concept for a web crawler targeting 9animetv. **Note:** This is strictly for educational purposes; a full-fledged crawler will not be published or developed here, and I disclaim responsibility for any consequences arising from this project.
 
 ## 📝 Background
@@ -42,6 +41,6 @@ This project demonstrates a basic proof of concept for a web crawler targeting 9
    - Open `play.html` in a modern browser.
    - Enter the M3U8 URL (e.g., from `index-f2-v1-a1.m3u8`) in the input field and click "Load Video" to initiate playback.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This project is for **educational purposes only**. Using it on 9animetv or other websites may violate terms of service. The author is not liable for any misuse of this information.
