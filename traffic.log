@@ -1,0 +1,550 @@
+🤖 Detected Service Worker request:
+{
+  "timestamp": "2024-11-10T15:49:40.485Z",
+  "url": "https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+  "method": "GET",
+  "headers": {
+    "Referer": "https://9animetv.to/",
+    "Upgrade-Insecure-Requests": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
+  "resourceType": "Document",
+  "isServiceWorker": true
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.488Z",
+  "url": "https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+  "method": "GET",
+  "headers": {
+    "referer": "https://9animetv.to/",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+  },
+  "resourceType": "document",
+  "isServiceWorker": false
+}
+🤖 Received Service Worker response:
+{
+  "timestamp": "2024-11-10T15:49:40.599Z",
+  "url": "https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+  "status": 200,
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "8e0731a04e9fd0f8-SOF",
+    "content-encoding": "zstd",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sun, 10 Nov 2024 15:49:40 GMT",
+    "expect-ct": "max-age=0",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=18yINlDcyEPIbR0bqt1OOjR1TO4NYeeKJ%2BQ%2BKM9z7aazk6yjEcEgRBpMmcSMaSdBvaP73ogYq6%2FsTxp0AGz2k06pdLt9RRgp2GU%2BwRQ1%2B6Q%2FtCZdDKbAyOS6kLnmSjixnw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=11615&sent=12&recv=10&lost=0&retrans=0&sent_bytes=3965&recv_bytes=4640&delivery_rate=750&cwnd=12000&unsent_bytes=0&cid=4d14022ff6ac382a&ts=87&x=1\"\ncfHdrFlush;dur=0",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "on",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "resourceType": "Document",
+  "isServiceWorker": true
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.612Z",
+  "url": "https://rapid-cloud.co/css/embed.min.css?v=1.3",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "text/css,*/*;q=0.1"
+  },
+  "resourceType": "stylesheet",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.614Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=UA-118288579-1",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.617Z",
+  "url": "https://rapid-cloud.co/js/player/prod/e6-player-v2.min.js?v=1731253648",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+Error processing response: Could not load body for this request. This might happen if the request is a preflight request.
+✅ Received response:
+{
+  "timestamp": "2024-11-10T15:49:40.746Z",
+  "url": "https://rapid-cloud.co/css/embed.min.css?v=1.3",
+  "status": 200,
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=14400",
+    "cf-cache-status": "EXPIRED",
+    "cf-ray": "8e0731a0f8e8d0f8-SOF",
+    "content-encoding": "gzip",
+    "content-type": "text/css; charset=UTF-8",
+    "date": "Sun, 10 Nov 2024 15:49:40 GMT",
+    "etag": "W/\"1febf-189732a310a\"",
+    "expect-ct": "max-age=0",
+    "last-modified": "Thu, 20 Jul 2023 11:58:12 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=NgZ%2F9TZxw4iZu27VoFBgu0kBkO7En2xEh71NjPc%2BT2Bq5tz1OQ1XjoA5aR3LITnNNiLJ1q0YrnIqEHA4oeGbgMiwyThJfWay5PljiBeGqgijFVGd0vOs4VVGa7Z7%2FMnJIg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=12998&sent=87&recv=30&lost=0&retrans=0&sent_bytes=88501&recv_bytes=6784&delivery_rate=1894999&cwnd=45600&unsent_bytes=0&cid=4d14022ff6ac382a&ts=222&x=1\"\ncfHdrFlush;dur=14",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "on",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "resourceType": "stylesheet",
+  "isServiceWorker": false,
+  "body": "/*!\n * Bootstrap v3.3.4 (http://getbootstrap.com)\n * Copyright 2011-2015 Twitter, Inc.\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\n *//*! normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{margin:.67em 0;font-size:2em}mark{color:#000;background:#ff0}small{font-size:80%}sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{height:0;-webki..."
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.850Z",
+  "url": "https://rapid-cloud.co/ajax/embed-6-v2/getSources?id=nElaHM7CFYvg",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/embed-6-v2/nElaHM7CFYvg?z=&autoPlay=1&oa=0",
+    "x-requested-with": "XMLHttpRequest",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "accept": "*/*",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+✅ Received response:
+{
+  "timestamp": "2024-11-10T15:49:40.783Z",
+  "url": "https://rapid-cloud.co/js/player/prod/e6-player-v2.min.js?v=1731253648",
+  "status": 200,
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=14400",
+    "cf-cache-status": "REVALIDATED",
+    "cf-ray": "8e0731a0f907d0f8-SOF",
+    "content-encoding": "gzip",
+    "content-type": "application/javascript; charset=UTF-8",
+    "date": "Sun, 10 Nov 2024 15:49:40 GMT",
+    "etag": "W/\"a9529-19316c28442\"",
+    "expect-ct": "max-age=0",
+    "last-modified": "Sun, 10 Nov 2024 15:47:46 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2BFCMsTyM9L7U5Y7Q%2F4L%2Fes38zKMSzmaJ40CHsuIhOCHHDVEoADEwyKni%2B1krvR8zegpfvnQ4ddLU7WP6otfWYIBC8f8Ij5EnW75Cp59ePQ1sjP8j41%2BeQCZcHccxGl%2BUTg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=11811&sent=19&recv=15&lost=0&retrans=0&sent_bytes=6901&recv_bytes=6139&delivery_rate=16619&cwnd=12000&unsent_bytes=0&cid=4d14022ff6ac382a&ts=197&x=1\"\ncfHdrFlush;dur=0",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "on",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false,
+  "body": "(function(v,X){function kA(v,X){return j(X- -0x1ab,v);}function kK(v,X){return t(X- -0x3a0,v);}function kI(v,X){return k(X- -0x13a,v);}var vG=v();while(!![]){try{var vQ=-parseInt(kI(0xb06,0x411))/0x1+-parseInt(kI(0x9b9,0x1ed))/0x2*(-parseInt(kI(0x71c,0xa84))/0x3)+parseInt(kA(-0x2e9,-0x43))/0x4*(-parseInt(kA(0xd79,0x928))/0x5)+-parseInt(kA(-0x48a,0x2b4))/0x6+-parseInt(kK('RoEe',0x923))/0x7*(-parseInt(kI(0x104e,0xb67))/0x8)+-parseInt(kA(-0x1e,0x5fb))/0x9*(parseInt(kK('pMkP',0xa68))/0xa)+parseInt(kA(0xb07,0xa11))/0xb;if(vQ===X)break;else vG['push'](vG['shift']());}catch(vY){vG['push'](vG['shift']());}}}(V,0x5238b),(!function(vG,vQ){function vY(k0,k1){function kl(v,X){return j(X-0x21c,v);}return k1[kl(0x1683,0xd5f)]();}function vr(){function ki(v,X){return j(v- -0x318,X);}function kb(v,X){return t(v-0x2c5,X);}function kp(v,X){return k(v- -0x249,X);}vP[kb(0x158b,'maZ1')]?(vP[kb(0x8ca,'iU6b')]('DOMContentLoaded',vi,!0x1),vG[kb(0x46b,'maZ1')](ki(0xbeb,0xd06),vi,!0x1)):(vP[kp(0xbea,0x2c9)](ki(..."
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.888Z",
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-EL3PNTGQT1&l=dataLayer&cx=c&gtm=457e4b70za200",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.890Z",
+  "url": "https://www.google-analytics.com/analytics.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.963Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/jwpsrv.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.965Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/jwplayer.core.controls.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:40.968Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/provider.hlsjs.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+✅ Received response:
+{
+  "timestamp": "2024-11-10T15:49:40.963Z",
+  "url": "https://rapid-cloud.co/ajax/embed-6-v2/getSources?id=nElaHM7CFYvg",
+  "status": 200,
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "8e0731a26dcfd0f8-SOF",
+    "content-encoding": "zstd",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Sun, 10 Nov 2024 15:49:40 GMT",
+    "etag": "W/\"31f-tXMpk6h019K/oMT1CIADsaP59go\"",
+    "expect-ct": "max-age=0",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=4YkM4zk1XE2Ogb3vjFCA4dPctVo0rKWFvDrMGP4eeb9Q2E5IVfoka3FG0P7iNKntZRYyYYxbKfdKV96sWuaKDtEXKR72BurG7lpXZBjfF0xCmDPp1eeH4Z9Hoa3UPnVpeA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=QUIC&rtt=18090&sent=284&recv=78&lost=0&retrans=0&sent_bytes=316486&recv_bytes=9366&delivery_rate=8271995&cwnd=148200&unsent_bytes=0&cid=4d14022ff6ac382a&ts=433&x=1\"\ncfHdrFlush;dur=0",
+    "strict-transport-security": "max-age=15552000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "on",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false,
+  "body": "{\"sources\":\"U2FsdGVkX1/Od0aEoojXkwcYjddmGFP8Kw9v6JgIfwGGOXlsyPaBjmqtnH2hIjWB0ujJM2oGBXPbIFelkhU8kqQqBaFs3Nz17xAuVsNQxyxCgP4NDIiOb8A06pjOPBOTNaiykFzwOaeorYVZuzeH7Y2SkKZZWmYT47IUZNArH5QeKNoK01rtCqrNIQoy5tH18lyV52x1zHIRwi2ivwH9q2T9zETP+eKnA3t7rE/a+W+U0Yg2XFWoa+FFKC7MYnMFTz8q0gu1j9VxzP0Q8FaGxs6GfKn967HxGgkPogmti8tsV5e6HNs2bvgi1zbgRztYTvMrg/ksefaFypS+jVHWRH1utsSWke6VLwRBxEOstej6o5/n6ONOYqHcW1o2DmRm2XePs217dxqLY76DolXUh9RpM++ol7NxJJ3r56Ewwo0eSVW7X1ctjZMgeMPlHRup8na0/X1vbXUhVr3XG9DhOmMYqrR7SoFoimfPUZ1MJzTwzX+mF54DL1edX7l/Wbev4q2HA==\",\"tracks\":[{\"file\":\"https://cc.bunnyccdn.co/ae/9e/ae9e37680bd4641555021fbc5bdc6698/ae9e37680bd4641555021fbc5bdc6698.vtt\",\"label\":\"English\",\"kind\":\"captions\",\"default\":true}],\"encrypted\":true,\"intro\":{\"start\":48,\"end\":137},\"outro\":{\"start\":1183,\"end\":1272},\"server\":4}"
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.126Z",
+  "url": "https://cc.bunnyccdn.co/ae/9e/ae9e37680bd4641555021fbc5bdc6698/ae9e37680bd4641555021fbc5bdc6698.vtt",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.128Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/polyfills.webvtt.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.129Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/provider.cast.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.148Z",
+  "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.220Z",
+  "url": "https://gg3.biananset.net/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/master.m3u8",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.240Z",
+  "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.241Z",
+  "url": "https://www.gstatic.com/eureka/clank/130/cast_sender.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.247Z",
+  "url": "https://ssl.p.jwpcdn.com/player/v/8.36.3/vttparser.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*"
+  },
+  "resourceType": "script",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.277Z",
+  "url": "https://gg3.biananset.net/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/index-f2-v1-a1.m3u8",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.376Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-1-f2-v1-a1.jpg",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.552Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-4-f2-v1-a1.html",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.631Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-5-f2-v1-a1.js",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.713Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-7-f2-v1-a1.css",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.779Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-8-f2-v1-a1.txt",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+🔍 Detected request:
+{
+  "timestamp": "2024-11-10T15:49:41.842Z",
+  "url": "https://dwe.erofeb.re/_v7/dcf5f6e4ab7ca9a761466482198d6fbb753aac477f51f7f622294f26bfeaa9f75f2138c973b1b1d5c9f8581ce6b972dd71c5bdd1a4d2122704b8871262f5dba144aa695c3e2ab07bd75a0ebc54d46d8aee1abf1af9566fc63612a8f629e1777d527ba0842574243700c1a3f3da681f4b6149a362ed7b0a602ccac99ed00b1b5f/seg-9-f2-v1-a1.png",
+  "method": "GET",
+  "headers": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "[RAPID-CLOUD] https://rapid-cloud.co/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "accept": "*/*",
+    "origin": "[RAPID-CLOUD] https://rapid-cloud.co"
+  },
+  "resourceType": "xhr",
+  "isServiceWorker": false
+}
+
+2024-11-10T15:49:44.240Z - Error loading page: Navigating frame was detached
+
+2024-11-10T15:49:44.240Z - Started monitoring traffic (rapid-cloud.co and related traffic)
