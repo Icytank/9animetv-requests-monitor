@@ -45,6 +45,9 @@ This project demonstrates a basic PROOF OF CONCEPT for a web crawler targeting 9
 
 Essentially, all you need to do to scrape 9animetv is to capture the M3U8 index URL. Once you have this URL, you can use it to play or download the video segments by loading it into a compatible player. This proof of concept illustrates the process of identifying the streaming URL despite obfuscation techniques.
 
+Edit:
+You would probably want to get the M3U8 master file url. This will give you all the quality streams URLs.
+
 ## ⚠️ Disclaimer
 
 This project is for **educational purposes only**. Using it on 9animetv or other websites may violate terms of service. The author is not liable for any misuse of this information.
